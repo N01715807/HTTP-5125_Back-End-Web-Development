@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CccApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7199d673d6cb4996c9e87db6a3e5a7360c7191df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7779b8df6454e6f8450a11d0105ae8e0797b7bd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CccApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CccApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

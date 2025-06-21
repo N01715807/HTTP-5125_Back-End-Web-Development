@@ -1,5 +1,77 @@
 [
   {
+    "ContainingType": "CccApi.Controllers._2020J2Controller",
+    "Method": "FourthQuestion",
+    "RelativePath": "api/_2020J2/FourthQuestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "P",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "N",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "R",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CccApi.Controllers._2020J3Controller",
+    "Method": "thirdQuestion",
+    "RelativePath": "api/_2020J3/thirdQuestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "S",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "M",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "L",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "CccApi.Controllers.J1Controller",
     "Method": "firstQuestion",
     "RelativePath": "api/J1/api/j1/firstQuestion",
@@ -21,6 +93,58 @@
     "ReturnTypes": [
       {
         "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CccApi.Controllers.J2Controller",
+    "Method": "secondQuestion",
+    "RelativePath": "api/J2/api/j2/secondQuestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Ingredients",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CccApi.Controllers.J32020Controller",
+    "Method": "Art",
+    "RelativePath": "api/J32020/Art",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "points",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String[]",
         "MediaTypes": [
           "text/plain",
           "application/json",
