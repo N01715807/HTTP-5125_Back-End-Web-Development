@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\Assignment2_lipengcheng\\CccApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCB0DB-E8E7-4FA2-B8A0-B362040C1BA4}|CccApi\\CccApi.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\assignment2_lipengcheng\\cccapi\\cccapi\\controllers\\j2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFCB0DB-E8E7-4FA2-B8A0-B362040C1BA4}|CccApi\\CccApi.csproj|solutionrelative:cccapi\\controllers\\j2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCB0DB-E8E7-4FA2-B8A0-B362040C1BA4}|CccApi\\CccApi.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\assignment2_lipengcheng\\cccapi\\cccapi\\controllers\\j1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFCB0DB-E8E7-4FA2-B8A0-B362040C1BA4}|CccApi\\CccApi.csproj|solutionrelative:cccapi\\controllers\\j1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "J2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\Assignment2_lipengcheng\\CccApi\\CccApi\\Controllers\\J2Controller.cs",
+              "RelativeDocumentMoniker": "CccApi\\Controllers\\J2Controller.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\Assignment2_lipengcheng\\CccApi\\CccApi\\Controllers\\J2Controller.cs",
+              "RelativeToolTip": "CccApi\\Controllers\\J2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T05:01:33.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "J1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\Assignment2_lipengcheng\\CccApi\\CccApi\\Controllers\\J1Controller.cs",
+              "RelativeDocumentMoniker": "CccApi\\Controllers\\J1Controller.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\Assignment2_lipengcheng\\CccApi\\CccApi\\Controllers\\J1Controller.cs",
+              "RelativeToolTip": "CccApi\\Controllers\\J1Controller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:11:44.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
