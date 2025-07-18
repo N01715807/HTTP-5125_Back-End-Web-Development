@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<SchoolMVP.Models.Teacher>
+
+<h2>Teacher List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Employee Number</th>
+            <th>Hire Date</th>
+            <th>Salary</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teacher in Model)
+        {
+            <tr>
+                <td>@teacher.TeacherId</td>
+                <td>@teacher.TeacherFname @teacher.TeacherLname</td>
+                <td>@teacher.EmployeeNumber</td>
+                <td>@teacher.HireDate.ToShortDateString()</td>
+                <td>@teacher.Salary.ToString("C")</td>
+                <td><a href="/TeacherPage/Show/@teacher.TeacherId">View</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

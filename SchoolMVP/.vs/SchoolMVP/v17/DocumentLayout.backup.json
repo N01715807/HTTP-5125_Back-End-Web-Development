@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\",
+  "WorkspaceRootPath": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\schoolmvp\\schoolmvp\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\schoolmvp\\schoolmvp\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\schoolmvp\\schoolmvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\schoolmvp\\schoolmvp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\schoolmvp\\schoolmvp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvp\\schoolmvp\\schoolmvp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C94FAB3-E268-409F-8606-5964321DFA9A}|SchoolMVP\\SchoolMVP.csproj|solutionrelative:schoolmvp\\schoolmvp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeacherAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherAPIController.cs",
-              "RelativeDocumentMoniker": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherAPIController.cs",
-              "RelativeToolTip": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolMVP\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolMVP\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:06:10.709Z",
+              "WhenOpened": "2025-07-18T22:57:30.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolMVP\\Program.cs",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Program.cs",
-              "RelativeToolTip": "SchoolMVP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:46:37.41Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "SchoolMVP.csproj",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\SchoolMVP.csproj",
+              "RelativeDocumentMoniker": "SchoolMVP\\SchoolMVP.csproj",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\SchoolMVP.csproj",
+              "RelativeToolTip": "SchoolMVP\\SchoolMVP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T22:34:48.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\appsettings.json",
-              "RelativeDocumentMoniker": "SchoolMVP\\appsettings.json",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\appsettings.json",
-              "RelativeToolTip": "SchoolMVP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T01:44:00.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SchoolDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Models\\SchoolDbContext.cs",
-              "RelativeDocumentMoniker": "SchoolMVP\\Models\\SchoolDbContext.cs",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Models\\SchoolDbContext.cs",
-              "RelativeToolTip": "SchoolMVP\\Models\\SchoolDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:26:02.239Z",
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "SchoolMVP\\Views\\TeacherPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeToolTip": "SchoolMVP\\Views\\TeacherPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T22:29:28.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "SchoolMVP\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SchoolMVP\\SchoolMVP\\Models\\Teacher.cs",
-              "RelativeToolTip": "SchoolMVP\\Models\\Teacher.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBYAAAAWAAAAAAAAAA==",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "SchoolMVP\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "SchoolMVP\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T22:29:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "SchoolMVP\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "SchoolMVP\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:01:41.924Z",
+              "WhenOpened": "2025-07-18T22:22:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:59:48.276Z",
               "EditorCaption": ""
             }
           ]

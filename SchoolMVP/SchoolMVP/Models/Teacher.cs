@@ -12,11 +12,11 @@ namespace SchoolMVP.Models
         /// <summary>
         /// The first name of the teacher.
         ///  </summary>
-        public string? FirstName { get; set; }
+        public string? TeacherFname { get; set; }
         /// <summary>
         /// The last name of the teacher.
         ///  </summary>
-        public string? LastName { get; set; }
+        public string? TeacherLname { get; set; }
         /// <summary>
         /// The The employee company number of the teacher.
         ///  </summary>
