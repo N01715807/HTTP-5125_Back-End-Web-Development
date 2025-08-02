@@ -1,0 +1,31 @@
+﻿@model SchoolMVPmark2.Models.Teacher
+
+<h2>Teacher Details</h2>
+
+@if (Model != null)
+{
+    <p><strong>Name:</strong> @Model.TeacherFname @Model.TeacherLname</p>
+    <p><strong>Employee #:</strong> @Model.Employeenumber</p>
+    <p><strong>Hire Date:</strong> @Model.Hiredate.ToShortDateString()</p>
+    <p><strong>Salary:</strong> @Model.Salary.ToString("C")</p>
+
+    @if (Model.CoursesTaught != null && Model.CoursesTaught.Count > 0)
+    {
+        <h3>Courses Taught:</h3>
+        <ul>
+            @foreach (var course in Model.CoursesTaught)
+            {
+                <li>@course.CourseCode - @course.CourseName (@course.StartDate.ToShortDateString())</li>
+
+            }
+        </ul>
+    }
+    else
+    {
+        <p><em>No courses assigned.</em></p>
+    }
+}
+else
+{
+    <p><strong>Error:</strong> Teacher not found.</p>
+}

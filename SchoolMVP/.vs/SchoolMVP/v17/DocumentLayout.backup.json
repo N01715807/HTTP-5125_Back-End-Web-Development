@@ -71,8 +71,7 @@
               "RelativeToolTip": "SchoolMVP\\Views\\TeacherPage\\Show.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T22:29:28.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T22:29:28.881Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "SchoolMVP\\Views\\TeacherPage\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-18T22:29:12.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T22:29:12.303Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "SchoolMVP\\Controllers\\TeacherPageController.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherPageController.cs",
               "RelativeToolTip": "SchoolMVP\\Controllers\\TeacherPageController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T22:22:46.542Z",
               "EditorCaption": ""
@@ -108,7 +106,7 @@
               "RelativeDocumentMoniker": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVP\\SchoolMVP\\Controllers\\TeacherAPIController.cs",
               "RelativeToolTip": "SchoolMVP\\Controllers\\TeacherAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T21:59:48.276Z",
               "EditorCaption": ""

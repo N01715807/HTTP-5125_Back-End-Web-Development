@@ -1,0 +1,29 @@
+﻿@model List<SchoolMVPmark2.Models.Teacher>
+
+<h2>List of Teachers</h2>
+<p><a href="/TeacherPage/Create">+ Add New Teacher</a></p>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Employee #</th>
+        <th>Hire Date</th>
+        <th>Salary</th>
+        <th>Details</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var teacher in Model)
+    {
+        <tr>
+            <td>@teacher.TeacherId</td>
+            <td>@teacher.TeacherFname @teacher.TeacherLname</td>
+            <td>@teacher.Employeenumber</td>
+            <td>@teacher.Hiredate.ToShortDateString()</td>
+            <td>@teacher.Salary.ToString("C")</td>
+            <td><a href="/TeacherPage/Show/@teacher.TeacherId">View</a></td>
+            <td><a href="/TeacherPage/DeleteConfirm/@teacher.TeacherId">Delete</a></td>
+        </tr>
+    }
+</table>
+

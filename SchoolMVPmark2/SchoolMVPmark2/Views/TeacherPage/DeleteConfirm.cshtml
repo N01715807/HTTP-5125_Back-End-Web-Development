@@ -1,0 +1,23 @@
+﻿@model SchoolMVPmark2.Models.Teacher
+
+<h2>Confirm Deletion</h2>
+
+@if (Model == null)
+{
+    <p>Teacher not found.</p>
+}
+else
+{
+    <p>Are you sure you want to delete the following teacher?</p>
+    <ul>
+        <li><strong>ID:</strong> @Model.TeacherId</li>
+        <li><strong>Name:</strong> @Model.TeacherFname @Model.TeacherLname</li>
+        <li><strong>Employee #:</strong> @Model.Employeenumber</li>
+    </ul>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" name="id" value="@Model.TeacherId" />
+        <button type="submit">Yes, Delete</button>
+        <a href="/TeacherPage/List">Cancel</a>
+    </form>
+}

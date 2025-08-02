@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Search by Hire Date";
+}
+
+<h2>Search Teachers by Hire Date</h2>
+
+<form asp-action="SearchResult" method="post">
+    <label>Min Hire Date:</label>
+    <input type="date" name="minDate" required />
+    <br />
+    <label>Max Hire Date:</label>
+    <input type="date" name="maxDate" required />
+    <br />
+    <button type="submit">Search</button>
+</form>
+
