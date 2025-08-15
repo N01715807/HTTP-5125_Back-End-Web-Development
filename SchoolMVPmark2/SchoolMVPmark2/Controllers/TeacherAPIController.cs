@@ -144,5 +144,59 @@ namespace SchoolMVPmark2.Controllers
                 Result = deleted > 0 ? "Deleted" : "Not Found"
             });
         }
+        /// <summary>
+        /// Updates a teacher's information by ID.
+        /// </summary>
+        /// <param name="id">Teacher ID to update. Must be positive.</param>
+        /// <param name="teacher">Teacher object with updated details.</param>
+        /// <remarks>
+        /// Validates that:
+        /// - ID is valid and teacher exists
+        /// - Names are not empty
+        /// - Hire date is not in the future
+        /// - Salary is non-negative
+        /// </remarks>
+        /// <returns>
+        /// 200 OK if updated, 400 Bad Request for invalid data,
+        /// 404 Not Found if teacher doesn't exist,
+        /// 500 Internal Server Error if update fails.
+        /// </returns>
+        [HttpPut("update/{id}")]
+        public IActionResult UpdateTeacher(int id, [FromBody] Teacher teacher)
+        {
+            if (id <= 0 || teacher == null)
+                return BadRequest(new { Response = "Error", Message = "Invalid id or payload." });
+            if (string.IsNullOrWhiteSpace(teacher.TeacherFname) ||
+                string.IsNullOrWhiteSpace(teacher.TeacherLname))
+                return BadRequest(new { Response = "Error", Message = "Name cannot be empty." });
+            if (teacher.Hiredate > DateTime.Now)
+                return BadRequest(new { Response = "Error", Message = "Hire date cannot be in the future." });
+            if (teacher.Salary < 0)
+                return BadRequest(new { Response = "Error", Message = "Salary cannot be negative." });
+
+            using var conn = new MySqlConnection(connectionString);
+            conn.Open();
+
+            using (var check = new MySqlCommand("SELECT COUNT(*) FROM teachers WHERE teacherid=@id", conn))
+            {
+                check.Parameters.AddWithValue("@id", id);
+                if (Convert.ToInt32(check.ExecuteScalar()) == 0)
+                    return NotFound(new { Response = "Error", Message = $"Teacher {id} not found." });
+            }
+
+            string sql = @"UPDATE teachers SET teacherfname=@f, teacherlname=@l, employeenumber=@e, hiredate=@h, salary=@s WHERE teacherid=@id";
+            using var cmd = new MySqlCommand(sql, conn);
+            cmd.Parameters.AddWithValue("@f", teacher.TeacherFname);
+            cmd.Parameters.AddWithValue("@l", teacher.TeacherLname);
+            cmd.Parameters.AddWithValue("@e", teacher.Employeenumber);
+            cmd.Parameters.AddWithValue("@h", teacher.Hiredate);
+            cmd.Parameters.AddWithValue("@s", teacher.Salary);
+            cmd.Parameters.AddWithValue("@id", id);
+
+            int rows = cmd.ExecuteNonQuery();
+            return rows == 1
+                ? Ok(new { Response = "Success", Message = $"Teacher {id} updated." })
+                : StatusCode(500, new { Response = "Error", Message = "Update failed." });
+        }
     }
 }

@@ -1,0 +1,65 @@
+﻿@model SchoolMVPmark2.Models.Teacher
+@{
+    ViewData["Title"] = "Edit Teacher";
+}
+<h2>Edit Teacher</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="text-danger">@ViewBag.Error</div>
+}
+
+<form asp-action="Edit" asp-controller="TeacherPage" method="post" novalidate>
+    <input type="hidden" asp-for="TeacherId" />
+
+    <div class="form-group">
+        <label asp-for="TeacherFname"></label>
+        <input asp-for="TeacherFname" class="form-control" required />
+        <span asp-validation-for="TeacherFname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TeacherLname"></label>
+        <input asp-for="TeacherLname" class="form-control" required />
+        <span asp-validation-for="TeacherLname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Employeenumber"></label>
+        <input asp-for="Employeenumber" class="form-control" />
+        <span asp-validation-for="Employeenumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Hiredate"></label>
+        <input asp-for="Hiredate" type="date" class="form-control"
+               max="@DateTime.Now.ToString("yyyy-MM-dd")" />
+        <span asp-validation-for="Hiredate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Salary"></label>
+        <input asp-for="Salary" type="number" step="0.01" min="0" class="form-control" />
+        <span asp-validation-for="Salary" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="List" asp-controller="TeacherPage" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.querySelector("form").addEventListener("submit", e => {
+          const fname = document.querySelector("[name='TeacherFname']").value.trim();
+          const lname = document.querySelector("[name='TeacherLname']").value.trim();
+          const hire = new Date(document.querySelector("[name='Hiredate']").value);
+          const now = new Date(); now.setHours(0,0,0,0);
+          const salary = parseFloat(document.querySelector("[name='Salary']").value || "0");
+          if (!fname || !lname || hire > now || salary < 0){
+            e.preventDefault();
+            alert("Please check name, hire date (<= today), and salary (>= 0).");
+          }
+        });
+    </script>
+}

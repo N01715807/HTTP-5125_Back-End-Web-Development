@@ -86,7 +86,7 @@ namespace SchoolMVPmark2.Models
                         };
                     }
 
-                    if (!reader.IsDBNull(reader.GetOrdinal("classid")))
+                    if (!reader.IsDBNull(reader.GetOrdinal("courseid")))
                     {
                         teacher.CoursesTaught.Add(new Course
                         {

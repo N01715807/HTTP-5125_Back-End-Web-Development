@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using SchoolMVPmark2.Models;
 using System.Net.Http.Json;
@@ -81,7 +82,7 @@ namespace SchoolMVPmark2.Controllers
         public async Task<IActionResult> Create(Teacher teacher)
         {
             using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7285"); // Replace with your actual port
+            client.BaseAddress = new Uri("https://localhost:7285");
 
             var response = await client.PostAsJsonAsync("/api/teacherapi/add", teacher);
 
@@ -116,7 +117,7 @@ namespace SchoolMVPmark2.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             using var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7285"); // Replace with your actual port
+            client.BaseAddress = new Uri("https://localhost:7285");
 
             var response = await client.DeleteAsync($"/api/teacherapi/delete/{id}");
 
@@ -127,6 +128,38 @@ namespace SchoolMVPmark2.Controllers
 
             ViewBag.Error = "Failed to delete the teacher. Please check the ID.";
             return RedirectToAction("List");
+        }
+
+        /// GET: /TeacherPage/Edit/5
+        public IActionResult Edit(int id)
+        {
+            var teacher = db.FindTeacher(id);
+            if (teacher == null) return RedirectToAction("List");
+            return View("~/Views/TeacherPage/Edit.cshtml", teacher);
+        }
+
+        // <summary>
+        /// POST: /TeacherPage/Edit
+        /// Submits updated teacher data to the WebAPI (PUT).
+        /// </summary>
+        [HttpPost]
+        public async Task<IActionResult> Edit(Teacher teacher)
+        {
+            if (string.IsNullOrWhiteSpace(teacher.TeacherFname) ||
+                string.IsNullOrWhiteSpace(teacher.TeacherLname) ||
+                teacher.Hiredate > DateTime.Now || teacher.Salary < 0)
+            {
+                ViewBag.Error = "Please fix validation errors.";
+                return View("~/Views/TeacherPage/Edit.cshtml", teacher);
+            }
+
+            using var client = new HttpClient();
+            client.BaseAddress = new Uri("https://localhost:7285");
+            var resp = await client.PutAsJsonAsync($"/api/teacherapi/update/{teacher.TeacherId}", teacher);
+
+            if (resp.IsSuccessStatusCode) return RedirectToAction("List");
+            ViewBag.Error = "Update failed. Please try again.";
+            return View("~/Views/TeacherPage/Edit.cshtml", teacher);
         }
     }
 }

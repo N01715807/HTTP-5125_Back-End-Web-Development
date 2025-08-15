@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +31,8 @@
       "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,6 +41,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|solutionrelative:schoolmvpmark2\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC545F30-3737-41B2-94F4-19CC836BD09B}|SchoolMVPmark2\\SchoolMVPmark2.csproj|c:\\users\\lipen\\onedrive\\desktop\\html\\http-5125_back-end-web-development\\schoolmvpmark2\\schoolmvpmark2\\views\\teacherpage\\searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\README.md",
-              "RelativeDocumentMoniker": "SchoolMVPmark2\\README.md",
-              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\README.md",
-              "RelativeToolTip": "SchoolMVPmark2\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-02T10:06:37.409Z",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\Edit.cshtml",
+              "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T16:55:46.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\Create.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\Create.cshtml",
@@ -83,25 +87,24 @@
               "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T09:19:41.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T09:19:41.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\Course.cs",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\Course.cs",
               "RelativeToolTip": "SchoolMVPmark2\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T08:54:43.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "SearchResult.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\SearchResult.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\SearchResult.cshtml",
@@ -109,12 +112,11 @@
               "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\SearchResult.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T08:51:57.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T08:51:57.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Show.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\Show.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\Show.cshtml",
@@ -127,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\List.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\List.cshtml",
@@ -135,64 +137,75 @@
               "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T08:18:38.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T08:18:38.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TeacherPageController.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Controllers\\TeacherPageController.cs",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Controllers\\TeacherPageController.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Controllers\\TeacherPageController.cs",
               "RelativeToolTip": "SchoolMVPmark2\\Controllers\\TeacherPageController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwCAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwIQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T08:14:50.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TeacherAPIController.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Controllers\\TeacherAPIController.cs",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Controllers\\TeacherAPIController.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Controllers\\TeacherAPIController.cs",
               "RelativeToolTip": "SchoolMVPmark2\\Controllers\\TeacherAPIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T08:03:27.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Models\\Teacher.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\Teacher.cs",
               "RelativeToolTip": "SchoolMVPmark2\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T07:07:24.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SchoolDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\SchoolDbContext.cs",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Models\\SchoolDbContext.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Models\\SchoolDbContext.cs",
               "RelativeToolTip": "SchoolMVPmark2\\Models\\SchoolDbContext.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAhwHAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T06:59:40.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\README.md",
+              "RelativeDocumentMoniker": "SchoolMVPmark2\\README.md",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\README.md",
+              "RelativeToolTip": "SchoolMVPmark2\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-02T10:06:37.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DeleteConfirm.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\DeleteConfirm.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\DeleteConfirm.cshtml",
@@ -200,12 +213,11 @@
               "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\DeleteConfirm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T09:20:28.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T09:20:28.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SearchForm.cshtml",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\html\\HTTP-5125_Back-End-Web-Development\\SchoolMVPmark2\\SchoolMVPmark2\\Views\\TeacherPage\\SearchForm.cshtml",
               "RelativeDocumentMoniker": "SchoolMVPmark2\\Views\\TeacherPage\\SearchForm.cshtml",
@@ -213,8 +225,7 @@
               "RelativeToolTip": "SchoolMVPmark2\\Views\\TeacherPage\\SearchForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T08:51:20.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T08:51:20.169Z"
             }
           ]
         }
